@@ -6,3 +6,8 @@ Delivery Charge : 50
 ProductName : Popcorn
 Price : 100
 Delivery Charge : 50
+
+ProductName : Pizza
+Price  : 250
+Delivery Charge : 40
+
