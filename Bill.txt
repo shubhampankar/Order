@@ -1,13 +1,21 @@
 
-ProductName : Burger,
-Price : 200,
+ProductName : Burger
+Price : 200
 Delivery Charge : 50
 
+ProductName : Popcorn
+Price : 100
+Delivery Charge : 50
 
 ProductName : Pizza
 Price  : 250
 Delivery Charge : 40
 
+
 ProductName : Ice-cream
 Price  : 300
 Delivery Charge : 40
+
+ProductName : Chips
+Price  : 150
+Delivery Charge : 50
