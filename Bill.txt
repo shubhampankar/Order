@@ -21,3 +21,7 @@ Delivery Charge : 50
 ProductName : Cold-Drink
 Price  : 350
 Delivery Charge : 40
+
+ProductName : Samose
+Price  : 400
+Delivery Charge : 40
