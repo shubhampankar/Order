@@ -11,3 +11,6 @@ ProductName : Pizza
 Price  : 250
 Delivery Charge : 40
 
+ProductName : Chips
+Price  : 150
+Delivery Charge : 50
