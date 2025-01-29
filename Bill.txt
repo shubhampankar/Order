@@ -7,3 +7,7 @@ Delivery Charge : 50
 ProductName : Pizza
 Price  : 250
 Delivery Charge : 40
+
+ProductName : Ice-cream
+Price  : 300
+Delivery Charge : 40
